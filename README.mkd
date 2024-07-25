@@ -1,0 +1,35 @@
+# Docs
+
+This repo is acessible for everyone to want redact simply documentations or tutorials for everyone, in my side i do the same. So enjoy for reader and contributors
+
+--- 
+
+# Contributing
+
+If you want to contribute to this repo, you can do it by creating a pull request. You can add new documentation, fix some errors or improve the existing ones. **create your own branch** and to the branch corresponding to the type of documentation you want to add.
+
+There is principal branches:
+- Tutorials : for tutorials
+- ProgLang : for programming languages documentation
+- Tools : for tools documentation
+  
+You are able to create a new branch if you want to add a new type of documentation.
+
+--- 
+
+# Using
+
+Every contributors need to when they create a new documentation, they need to add a new folder in the corresponding branch. The folder name must be the name of the documentation. Inside the folder, you can add the documentation in the format you want. You can add images, code, etc.
+
+Inside this folder add a README with the names of contributors and the date of the creation of the documentation.
+
+You can too add authors contributors inside the folders you created for the documentation.
+
+# Issues :
+
+For the issues thanks to alerting the contributor with @[name] it will be better for anyone , if you want update without being contributor a new documentation or fix some errors you can create an issue too with the name of the authors.  
+
+# End : 
+I hope it will be a good experience for everyone. I hope that this repo will be useful for everyone. If you have any questions, you can contact me
+
+--- 
