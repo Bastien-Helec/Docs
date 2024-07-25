@@ -6,7 +6,7 @@ This repo is acessible for everyone to want redact simply documentations or tuto
 
 # Contributing
 
-If you want to contribute to this repo, you can do it by creating a pull request. You can add new documentation, fix some errors or improve the existing ones. **create your own branch** and to the branch corresponding to the type of documentation you want to add.
+If you want to contribute to this repo, you can do it by creating a pull request on your fork. You can add new documentation, fix some errors or improve the existing ones. **create your own branch** and to the branch corresponding to the type of documentation you want to add.
 
 There is principal branches:
 - Tutorials : for tutorials
